@@ -21,6 +21,6 @@
 
 
 ### Фотографии сервиса
-![alt text](./photos/overall.png "Overall")
-![alt text](./photos/one_item.png "predict_item")
-![alt text](./photos/many_items.png "predict_items")
+![alt text](./overall.png "Overall")
+![alt text](./one_item.png "predict_item")
+![alt text](./many_items.png "predict_items")
